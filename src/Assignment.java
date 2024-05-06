@@ -12,5 +12,6 @@ public class Assignment {
 
     public static void main(String[] argv) {
         print();
+        sum(10, 20);
     }
 }
